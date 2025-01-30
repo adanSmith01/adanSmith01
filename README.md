@@ -8,11 +8,6 @@
 # 💫 About Me:
 I am a passionate **backend developer** with a strong interest in building scalable and efficient web solutions. My main expertise lies in **Web Backend Development**, as well as programming with Python in areas such as **Web Development**, **Data Science**, and **Machine Learning**.<br><br>As a self-taught programmer, I am constantly learning and exploring new technologies to expand my skill set. I enjoy solving complex problems and optimizing systems to improve performance and maintainability.<br>
 
-&nbsp;
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adanSmithps) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-smith-paredes-solorzano-b4812a220) 
 
 &nbsp;
 
